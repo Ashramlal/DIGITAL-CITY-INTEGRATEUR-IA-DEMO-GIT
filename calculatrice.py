@@ -27,3 +27,11 @@ if choix == "3":
 if choix == "4":
     resultat = nombre1 / nombre2
     print(f"Résultat : {resultat}")
+elif choix == "4":
+    if nombre2 == 0:
+        print("Erreur : division par zéro impossible.")
+    else:
+        resultat = nombre1 / nombre2
+        print(f"Résultat : {resultat}")
+
+
