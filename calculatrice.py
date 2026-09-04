@@ -6,3 +6,8 @@ print("1 - Addition")
 print("2 - Soustraction")
 print("3 - Multiplication")
 print("4 - Division")
+
+choix = input("Choisissez une opération : ")
+
+nombre1 = float(input("Premier nombre : "))
+nombre2 = float(input("Deuxième nombre : "))
