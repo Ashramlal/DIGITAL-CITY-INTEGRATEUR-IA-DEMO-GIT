@@ -15,3 +15,7 @@ nombre2 = float(input("Deuxième nombre : "))
 if choix == "1":
     resultat = nombre1 + nombre2
     print(f"Résultat : {resultat}")
+
+if choix == "2":
+    resultat = nombre1 - nombre2
+    print(f"Résultat : {resultat}")
