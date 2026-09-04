@@ -3,3 +3,6 @@ def testAdd():
     b = 10 
     c = a + b
     return True
+
+def first_dev():
+    return 42
