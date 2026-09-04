@@ -7,5 +7,8 @@ def testAdd():
 def first_dev():
     return 42
 
+def dev_avance():
+    return "j'avance"
+
 def main_avance():
     return "main avance"
