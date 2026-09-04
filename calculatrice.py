@@ -23,3 +23,7 @@ if choix == "2":
 if choix == "3":
     resultat = nombre1 * nombre2
     print(f"Résultat : {resultat}")
+
+if choix == "4":
+    resultat = nombre1 / nombre2
+    print(f"Résultat : {resultat}")
