@@ -8,5 +8,4 @@ def first_dev():
     return 42
 
 def main_avance():
-    retunr "main avance"
-    
+    return "main avance"
