@@ -19,3 +19,7 @@ if choix == "1":
 if choix == "2":
     resultat = nombre1 - nombre2
     print(f"Résultat : {resultat}")
+
+if choix == "3":
+    resultat = nombre1 * nombre2
+    print(f"Résultat : {resultat}")
