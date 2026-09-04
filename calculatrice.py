@@ -16,17 +16,15 @@ if choix == "1":
     resultat = nombre1 + nombre2
     print(f"Résultat : {resultat}")
 
-if choix == "2":
+elif choix == "2":
     resultat = nombre1 - nombre2
     print(f"Résultat : {resultat}")
 
-if choix == "3":
+elif choix == "3":
     resultat = nombre1 * nombre2
     print(f"Résultat : {resultat}")
 
-if choix == "4":
-    resultat = nombre1 / nombre2
-    print(f"Résultat : {resultat}")
+
 elif choix == "4":
     if nombre2 == 0:
         print("Erreur : division par zéro impossible.")
@@ -34,4 +32,5 @@ elif choix == "4":
         resultat = nombre1 / nombre2
         print(f"Résultat : {resultat}")
 
-
+else:
+    print("Opération inconnue.")
