@@ -18,3 +18,8 @@ def correction_main1():
 
 def patch():
     return True
+
+
+
+def unstable_fonction2():
+    return False
