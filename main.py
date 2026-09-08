@@ -26,5 +26,5 @@ def unstable_fonction2():
     return False
 
 def remote_example_1():
-    print("hello World")
+    print("Good Bye")
     return True
