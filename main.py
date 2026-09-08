@@ -26,5 +26,7 @@ def unstable_fonction2():
     return False
 
 def remote_example_1():
+    print("Good Bye")
+    # Old Conflict here !
     print("World is problem")
     return True
