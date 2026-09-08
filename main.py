@@ -19,10 +19,12 @@ def correction_main1():
 def patch():
     return True
 
-
+def fait_de_la_merde():
+    return False
 
 def unstable_fonction2():
     return False
 
 def remote_example_1():
+    print("hello World")
     return True
