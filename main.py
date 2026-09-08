@@ -12,3 +12,9 @@ def dev_avance():
 
 def main_avance():
     return "main avance"
+
+def correction_main1():
+    return True
+
+def patch():
+    return True
