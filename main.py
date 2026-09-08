@@ -23,3 +23,6 @@ def patch():
 
 def unstable_fonction2():
     return False
+
+def remote_example_1():
+    return True
